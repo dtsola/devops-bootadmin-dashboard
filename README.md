@@ -1,6 +1,9 @@
 ## 概述
 集成Springboot Admin并实现Prometheus Nacos服务发现。
 
+## GO版本
+![golang version](https://github.com/dtsola/devops-prometheus-nacos-sd-go)
+
 ## 依赖
 - jdk 1.8+
 - spring boot 2.3.12.RELEASE
