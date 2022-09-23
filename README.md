@@ -1,3 +1,8 @@
+## 联系我
+- E-Mail：dtsola@163.com
+- QQ：550182738
+
+
 ## 概述
 集成Springboot Admin并实现Prometheus Nacos服务发现。
 
@@ -52,7 +57,3 @@ com.dtsola.oss.devops.adminboot.dashboard.controller.PrometheusController
 #### grafana界面
 - dashboard id: 12856
 ![](https://pan.bilnn.cn/api/v3/file/sourcejump/mmkpobIw/LXRAcvAZkpzUZCeBsN1XpVNG0PyiwFPbVyJhGTqArxo*)
-
-## 联系我
-- E-Mail：dtsola@163.com
-- QQ：550182738
